@@ -25,13 +25,13 @@
                               Options
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                              <li><a class="dropdown-item" href="add.html">ADDITION</a></li>
+                              <li><a class="dropdown-item" href="add.php">ADDITION</a></li>
                               <li><hr class="dropdown-divider"></li>
-                              <li><a class="dropdown-item" href="sub.html">SUBTRACTION</a></li>
+                              <li><a class="dropdown-item" href="sub.php">SUBTRACTION</a></li>
                               <li><hr class="dropdown-divider"></li>
-                              <li><a class="dropdown-item" href="div.html">DIVISION</a></li>
+                              <li><a class="dropdown-item" href="div.php">DIVISION</a></li>
                               <li><hr class="dropdown-divider"></li>
-                              <li><a class="dropdown-item" href="mult.html">MULTIPLICATION</a></li>
+                              <li><a class="dropdown-item" href="mult.php">MULTIPLICATION</a></li>
                             </ul>
                           </li>
                   </ul>
